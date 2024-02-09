@@ -3,8 +3,6 @@ Project Status Tracker
 
 ![MergedImages](https://github.com/Khushbooo123/Project-Status-Tracker/assets/52238176/b39d37dd-4c57-4f65-8aad-1dd9429dee92)
 
-# Project Name: Project Status Tracker
-
 # Project Description:
 
 The Project Status Tracker is a comprehensive tool developed in collaboration with Vedantu Innovations Pvt. Ltd. to streamline and monitor project progress efficiently. It utilizes Google Sheets to provide a user-friendly interface for real-time tracking and reporting of project milestones, tasks, and overall status. This tool enhances collaboration, transparency, and decision-making within project teams.
